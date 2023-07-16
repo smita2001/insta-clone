@@ -2,11 +2,11 @@
 /***************Post**************************/
 const posts = document.querySelector(".posts");
 const post_data = [
-  ['../images/profile_img.jpg','user1',45,'../images/insta-clone.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['../images/profile_img.jpg','user2',15,'../images/insta-clone.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['../images/profile_img.jpg','user3',5,'../images/insta-clone.jpg',350,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['../images/profile_img.jpg','user4',15,'../images/insta-clone.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['../images/profile_img.jpg','user5',15,'../images/insta-clone.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://i.ibb.co/gT0MFXY/profile-img.jpg','user1',45,'https://i.ibb.co/KWNtVSS/insta-clone.png',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://i.ibb.co/gT0MFXY/profile-img.jpg','user2',15,'https://i.ibb.co/KWNtVSS/insta-clone.png',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://i.ibb.co/gT0MFXY/profile-img.jpg','user3',5,'https://i.ibb.co/KWNtVSS/insta-clone.png',350,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://i.ibb.co/gT0MFXY/profile-img.jpg','user4',15,'https://i.ibb.co/KWNtVSS/insta-clone.png',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://i.ibb.co/gT0MFXY/profile-img.jpg','user5',15,'https://i.ibb.co/KWNtVSS/insta-clone.png',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
 ]
 
 if(posts)
