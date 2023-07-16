@@ -1,6 +1,6 @@
 /******************Add the story ******************/
 const image_profile = [
-    ['../images/profile_img.jpg','user1'],
+    ['https://github.com/smita2001/insta-clone/blob/main/images/insta-clone.jpg','user1'],
     ['../images/profile_img.jpg','user2'],
     ['../images/profile_img.jpg','user3'],
     ['../images/profile_img.jpg','user4'],
